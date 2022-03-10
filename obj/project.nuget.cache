@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RnD3iuOENj/GOa9sDpRDyWLR9LjcN8ttP2eDwSel5lyZl9FtUUAIc+aQtZuVIyS3Ig7Rpc83uraIlEOt9wzvxw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\guss_\\Documents\\CODE\\CURSOS\\DIO\\Projetos\\Bootcamps\\MRV\\C# e .Net\\Introdução ao C# e .NET\\Aula 03\\Projeto\\CRUD\\DIO.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guss_\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\guss_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\guss_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\guss_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

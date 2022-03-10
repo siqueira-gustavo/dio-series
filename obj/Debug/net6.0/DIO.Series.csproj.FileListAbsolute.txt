@@ -1,0 +1,15 @@
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\obj\Debug\net6.0\refint\DIO.Series.dll
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+D:\Users\guss_\Documents\CODE\CURSOS\DIO\Projetos\Bootcamps\MRV\C# e .Net\Introdução ao C# e .NET\Aula 03\Projeto\CRUD\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
